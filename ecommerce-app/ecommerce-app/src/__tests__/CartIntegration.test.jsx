@@ -1,0 +1,1 @@
+// Dummy content for src/__tests__/CartIntegration.test.jsx
